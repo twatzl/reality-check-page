@@ -14,9 +14,13 @@ permalink: rules
 JKU UNI CENTER
 
 Bring your friends! <br/>
+
+{% include image.html path="/assets/images/campusplan_uni_center.png" alt="Campusplan Location" style="max-width: 500px; padding: 15px;" %}
+
+
 <figure>
-    <a class="img" href="/assets/images/campusplan_uni_center.png">
-     <img src="/assets/images/campusplan_uni_center.png" style="max-width: 500px; padding: 15px;"
+    <a class="img" href="{{ site.baseurl | absolute_url }}>
+     <img src="{{ site.baseurl | absolute_url }}/assets/images/campusplan_uni_center.png" style="max-width: 500px; padding: 15px;"
           alt="Campusplan Location" />
       </a>
      <figcaption></figcaption>
