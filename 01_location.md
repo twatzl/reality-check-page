@@ -19,8 +19,8 @@ Bring your friends! <br/>
 
 
 <figure>
-    <a class="img" href="{{ site.baseurl }}assets/images/campusplan_uni_center.png">
-     <img src="{{ site.baseurl }}assets/images/campusplan_uni_center.png" style="max-width: 500px; padding: 15px;"
+    <a class="img" href="{{ site.baseurl }}/assets/images/campusplan_uni_center.png">
+     <img src="{{ site.baseurl }}/assets/images/campusplan_uni_center.png" style="max-width: 500px; padding: 15px;"
           alt="Campusplan Location" />
       </a>
      <figcaption></figcaption>
