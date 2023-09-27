@@ -1,0 +1,37 @@
+# site settings
+title: "REALITY CHECK EVENT"
+subtitle: "JKU Linz, Uni-Center, 20.10.2023"
+email: ""
+description: ""
+baseurl: "" 
+url: "https://realitycheck.events/"
+author: Reality Check Event Team
+street_address: "JKU Linz, Uni-Center<br>Altenbergerstraße 69"
+city: Linz
+state: AT
+zip_code: 4040
+country: Österreich
+phone: 
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 3
+
+# social settings
+500px_url: 
+facebook_url:
+github_url: 
+gitlab_url: 
+googleplus_url: 
+instagram_url: "https://www.instagram.com/realitycheck_austria/"
+linkedin_url: 
+pinterest_url:
+slack_url:
+twitter_url: 
+discord_url:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed

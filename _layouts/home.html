@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+{% include head.html %}
+
+<body>
+
+    {% include header.html %}
+
+    <!-- Banner -->
+    <section id="banner" class="major">
+        <div class="inner">
+            <header class="major">
+                <h1>{{ page.landing-title }}</h1>
+            </header>
+            <div class="content">
+                <p style="text-transform: uppercase;">{{ site.description }}</p><br>
+		        <ul class="actions">
+                    <li><a href="https://discord.gg/46Hg8v57s9" target="_blank" rel="noopener noreferrer" class="button next scrolly">Join our Discord!</a></li>
+                    <li><a href="https://photos.google.com/share/AF1QipNCL7UlU7lDJm0BbFpbylBjfW2Bis7IOcgrjGNittKo4xjrnAVBYMQ7_MnHMfDyKw?key=Z0tOS180bjBOWlJ2eEZiRTYtOVJ0dHRwR25RSDRB" target="_blank" rel="noopener noreferrer" class="button next scrolly">Gallery 2022W</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main -->
+    <div id="main">
+
+        <!-- One -->
+        {% include tiles.html %}
+
+    </div>
+
+    {% include footer.html %}
+
+</body>
+
+</html>
