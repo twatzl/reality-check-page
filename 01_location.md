@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Guidelines
-description: AGBs
+title: LOCATION
+description: Where Is The Party
 image: 
 nav-menu: true
 permalink: rules

@@ -1,10 +1,14 @@
 ---
 layout: post
-title: About us
-description: Join us // Awareness-Team
+title: IMPRESSUM
+description: Impressum
 nav-menu: true
 permalink: /about/
 ---
+
+TODO
+
+DIESE SEITE IST GERADE IM AUFBAU.
 
 [//]: # (We are a group of students from the technical faculty branch of the student union &#40;ÖH TNF&#41;, who love to play games. In order to share this passion with others at JKU, we are organizing the JKU Games, a free gaming event that takes place almost every semester. We can't take all the credit however, as this event builds on the experience and work of all the organizers before us &#40;after all, this is the 17th edition&#41;. Also, such an event would not be possible without so many other ÖH TNF members and friends supporting us during the event.)
 
