@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LINEUP
-description:
+description: Who Is Playing
 nav-menu: true
 permalink: /lan/
 ---

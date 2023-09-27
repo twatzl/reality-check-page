@@ -7,6 +7,22 @@ nav-menu: true
 permalink: rules
 ---
 
+## WANN
+20.10.
+
+## WO
+JKU UNI CENTER
+
+Bring your friends! <br/>
+<figure>
+    <a class="img" href="/assets/images/campusplan_uni_center.png">
+     <img src="/assets/images/campusplan_uni_center.png" style="max-width: 500px; padding: 15px;"
+          alt="Campusplan Location" />
+      </a>
+     <figcaption></figcaption>
+</figure>
+
+
 [//]: # (## Code of Behaviour)
 
 [//]: # (In joining our event, you agree to following our AGBs:)
