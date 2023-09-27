@@ -8,11 +8,11 @@ permalink: rules
 ---
 
 ## WANN
-20.10.
+20.10. - 19:30
 
 ## WO
 JKU UNI CENTER
 
-Bring your friends! <br/>
+#### Bring your friends! <br/>
 
 {% include image.html path="/assets/images/campusplan_uni_center.png" alt="Campusplan Location" style="max-width: 1500px; padding: 15px;" %}
