@@ -16,7 +16,7 @@ show_tile: false
 
 MENSAKELLER IM JKU UNI CENTER (GEGENÜBER VOM LUI)
 
-{% include image.html path="/assets/images/campusplan_uni_center.png" alt="Campusplan Location" style="max-width: 1500px; padding: 15px;" %}
+{% include image.html path="/assets/images/campusplan_uni_center.png" alt="Campusplan Location" style="max-width: 600px; padding: 15px;" %}
 
 ## LINEUP
 
